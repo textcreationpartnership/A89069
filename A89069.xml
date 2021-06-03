@@ -1,0 +1,335 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Mercurius Britanicus his vision: being a reply to a pamphlet lately printed, and termed, Britanicus his welcome to Hell: with the Devils blessing to Britanicus.</title>
+         </titleStmt>
+         <extent>Approx. 11KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A89069</idno><idno type="EEBO-CITATION">99861929</idno>
+  <idno type="VID">160169</idno>
+  <idno type="EEBO-PROQUEST">2240942709</idno>
+  
+            <idno type="STC">Wing M1758</idno>
+            <idno type="STC">Thomason E381_15</idno>
+            <idno type="STC">ESTC R201416</idno>
+            <idno type="PROQUEST">99861929</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-99861929e"/>
+            <note>(EEBO-TCP ; phase 2, no. A89069)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 160169)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 61:E381[15])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Mercurius Britanicus his vision: being a reply to a pamphlet lately printed, and termed, Britanicus his welcome to Hell: with the Devils blessing to Britanicus.</title>
+               </titleStmt>
+               <extent>[2], 6 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for W. Ley,</publisher>
+                  <pubPlace>London, :</pubPlace>
+                  <date>1647.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>A reply to: Wortley, Sir Francis. Mercurius Britanicus his welcome to Hell (Wing W3641).</note>
+                  <note>In verse.</note>
+                  <note>Annotation on Thomason copy: "March 25".</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="personal_name">Wortley, Francis, --  Sir, 1591-1652. --  Mercurius Britanicus his welcome to Hell --  Early works to 1800.</term>
+               <term type="personal_name">Nedham, Marchamont, 1620-1678 --  Early works to 1800.</term>
+               <term type="topical_term">Political satire, English --  17th century.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2014-05 </date>
+            <label>Apex CoVantage</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-09 </date>
+            <label>Kate Allen </label>Sampled and proofread </change>
+         <change>
+            <date>2014-09 </date>
+            <label>Kate Allen</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:160169:1"/>
+            <p> Mercurius Britanicus HIS VISION: BEING A REPLY To a Pamphlet lately printed, and termed, <hi>Britanicus his Welcome to Hell:</hi> WITH <hi>The Devills Blessing to Britanicus.</hi>
+            </p>
+            <q>
+               <l>I have been silent long; but now am come</l>
+               <l>Abroad againe: The silent Judge speaks home.</l>
+            </q>
+            <p>
+               <hi>LONDON,</hi> Printed for <hi>W. Ley.</hi> 1647.</p>
+            <pb facs="tcp:160169:2"/>
+         </div>
+      </front>
+      <body>
+         <div type="poem">
+            <pb n="1" facs="tcp:160169:2"/>
+            <head>
+               <hi>Mercurius Britanicus his Reply</hi> TO A certaine Pamphlet lately printed, and termed, <hi>Britanicus his Welcome to Hell.</hi>
+            </head>
+            <lg>
+               <l>I Laugh to think, the Punies of this age</l>
+               <l>Should be inspir'd with such Poetick rage,</l>
+               <l>To venture forth 'gainst me, as if that I</l>
+               <l>Could not change prose, and whip with Poesie,</l>
+               <l>Because perhaps I too long have layen still,</l>
+               <l>And hav'e not, as I wonted, us'd my quill,</l>
+               <l>They think I sleep, and heare not of the wrongs</l>
+               <l>Vented by their two-edg'd malicious tongues:</l>
+               <l>Have I drank Laethe, think the foolish Crew,</l>
+               <l>That they their frothie follies dare to spew</l>
+               <l>On me, and not expect I should reply,</l>
+               <l>And castigate them for their foolery.</l>
+               <l>Do they not know, I quaile not at pale feare,</l>
+               <l>But when I write, my lines are most severe:</l>
+               <l>Should I these Fondlings suffer in their ill,</l>
+               <l>The whole world with their fopperies they'd fill.</l>
+            </lg>
+            <lg>
+               <l>Come and appeare, thou that didst late discusse,</l>
+               <l>And threw'st a Libell at <hi>Britanicus:</hi>
+               </l>
+               <l>Thy toothlesse Satyre can't eclipse my fame,</l>
+               <l>Amongst the knowing I am still the same.</l>
+               <pb n="2" facs="tcp:160169:3"/>
+               <l> Wert thou so mad thy self for to prefer,</l>
+               <l>To be grim <hi>Pluto's</hi> punie Counseller?</l>
+               <l>I guesse, by the subsequence of thy story,</l>
+               <l>Thou hast been in S. <hi>Patricks</hi> Purgatory,</l>
+               <l>Where, through thy over-fasting, thou didst see</l>
+               <l>Perhaps thy Father, in the shape of mee:</l>
+               <l>The Devills did delude thee, they are wise,</l>
+               <l>And love with fancies fooles for to surprize.</l>
+               <l>Thou hoping for to get thy selfe renowne,</l>
+               <l>And to supply thy wants with a French Crowne,</l>
+               <l>Hast ventur'd to declare thy mind in verse,</l>
+               <l>Such as would shame <note n="*" place="margin">A foolish Poet.</note>
+                  <hi>Cherillus</hi> to rehearse.</l>
+               <l>But this, if any, will thy glory be,</l>
+               <l>That I doe deigne in print to answer thee.</l>
+               <l>Dost thou exclaime against me, 'cause that I</l>
+               <l>Followed my Soveraigne with Hue and Crie?</l>
+               <l>Because my selfe so loyall I did show,</l>
+               <l>I durst so far for Englands good to go?</l>
+               <l>If that my zeale unto the publike good</l>
+               <l>Were not by some, as others, understood,</l>
+               <l>Must their misled misprisions light on me,</l>
+               <l>And they include as vile a soule as thee?</l>
+               <l>No; when the fatall Shee shall break my thread,</l>
+               <l>And I shall be one numbred with the dead,</l>
+               <l>When as JEHOVAH'S wil shall snatch me hence,</l>
+               <l>My credit will on earth be more immense;</l>
+               <l>When that the sordid issue of thy braine</l>
+               <l>The Muses sonnes shall look on with disdaine:</l>
+               <l>Thou think'st, thou hast made known thy wondrous skill,</l>
+               <l>In making <hi>Cerberus</hi> for to lie still,</l>
+               <l>While I do enter Hell; Foole, know, I ne're</l>
+               <l>Am destinated for to enter there.</l>
+               <pb n="3" facs="tcp:160169:3"/>
+               <l> It seems like <hi>Orpheus,</hi> my voice is sweet,</l>
+               <l>And that with pleasant close my lines do meet,</l>
+               <l>That <hi>Sysiphus</hi> relinquisheth his stone,</l>
+               <l>And <note n="*" place="margin">A Gyant who assaying to ravish <hi>Lato<g ref="char:EOLhyphen"/>na,</hi> was smit<g ref="char:EOLhyphen"/>ten with light<g ref="char:EOLhyphen"/>ning by <hi>love,</hi> and throwne into hell, a vul<g ref="char:EOLhyphen"/>ture allotted to tire on his heart.</note>
+                  <hi>Titius</hi> ceaseth for to make his moane</l>
+               <l>When I appeare; thus dost thou parallel</l>
+               <l>Me with him fetcht <hi>Euridice</hi> from hell?</l>
+               <l>For thy perfumes and fare, and all the rabble</l>
+               <l>Of Furies like thy selfe, who thou dost babble</l>
+               <l>Shall be my waiters, all that I will say</l>
+               <l>Is this, thou sure with some <hi>Tarantula</hi>
+               </l>
+               <l>VVert bit, and spewd'st thy venome all on me;</l>
+               <l>But heark what I'le relate concerning thee.</l>
+            </lg>
+            <lg>
+               <l>I know thee not, nor doe desire to see,</l>
+               <l>Unlesse through loop-holes I could visit thee:</l>
+               <l>Or as that famous <note n="*" place="margin">A Knight of Rome who putting on a case of Chri<g ref="char:EOLhyphen"/>stall, went to<g ref="char:EOLhyphen"/>wards the Ba<g ref="char:EOLhyphen"/>salisk that then destroyed the Inhabi<g ref="char:EOLhyphen"/>tants of the City, and the Basaliske be<g ref="char:EOLhyphen"/>holding it self burst in sun<g ref="char:EOLhyphen"/>der.</note> Knight, when he beheld</l>
+               <l>The Basalisk, and all his force repell'd.</l>
+               <l>VVhat time <hi>Adeboran</hi> was mounted hie,</l>
+               <l>And <hi>Cynthias</hi> lustre beautified the skie,</l>
+               <l>VVhen all both men and beasts in silence were,</l>
+               <l>Me thought that there before me did appeare</l>
+               <l>A Swad like Charon with huge rowling eyes,</l>
+               <l>Like to a Goblin that babes terrifies;</l>
+               <l>A bottle nose, and a most fiery face,</l>
+               <l>A certain symptome he was of the race</l>
+               <l>Of Furies, perhaps <hi>Iucubus</hi> might deale</l>
+               <l>VVith fell <hi>Magera,</hi> and this biat reveale;</l>
+               <l>And drawing neerer, with a feeble tone,</l>
+               <l>He made to me this his relation.</l>
+            </lg>
+            <lg>
+               <l>From the black Lake that runs round <hi>Erebus,</hi>
+               </l>
+               <l>I now am come to thee <hi>Britanicus,</hi>
+               </l>
+               <l>By <hi>Saturnes</hi> sons command, to crave of thee</l>
+               <l>Remission, that my erring fantasie,</l>
+               <pb n="4" facs="tcp:160169:4"/>
+               <l> Deluded so my sense, I durst compile</l>
+               <l>And wrong great <hi>Pluto</hi> with my Verses vile:</l>
+               <l>When I made known his Welcome and his Blessing,</l>
+               <l>He storm'd, because it had such mimmick dressing,</l>
+               <l>And straight cal'd <hi>Homer</hi> with <hi>Musaeus</hi>
+                  <note n="*" place="margin">Orpheus.</note> he</l>
+               <l>That made stones move unto his melody,</l>
+               <l>And unto them, my verses he made known,</l>
+               <l>And did desire their approbation:</l>
+               <l>Who angry said, this fellowes lines we see</l>
+               <l>The very excrement of Verse to bee;</l>
+               <l>Meer crimes were never scan'd, great wrong is done</l>
+               <l>To <hi>Pluto,</hi> and his fierie Mansion.</l>
+               <l>That this man durst the honor to impaire</l>
+               <l>Of him that rules in hell, and in the ayre:</l>
+               <l>Let <hi>Minos</hi> scan his crime, and give his doome,</l>
+               <l>Let <hi>Radamanthus</hi> also hither come,</l>
+               <l>And denounce Judgement, we will heare the cause,</l>
+               <l>We know that <hi>Pluto's</hi> are like <hi>Draco's</hi> Lawes.</l>
+               <l>The powers of hell then straight assembled were,</l>
+               <l>Great <hi>Dis</hi> being seated in his flaming chaire,</l>
+               <l>
+                  <hi>Minos,</hi> and <hi>Radamanthus</hi> him plac't by,</l>
+               <l>
+                  <hi>Caligula</hi> and <hi>Nero</hi> sate them nigh,</l>
+               <l>
+                  <hi>Silla,</hi> and <hi>Marius</hi> on their right hand,</l>
+               <l>And at their left curst <hi>Machavell</hi> did stand,</l>
+               <l>'Bout whom innumerable spirits stood,</l>
+               <l>Who had escaped from the Stygian flood:</l>
+               <l>The charge was read, then <hi>Minos</hi> did proceed,</l>
+               <l>And thus revealed what they had decreed.</l>
+               <l>Since that a fellow lately did put forth</l>
+               <l>A Pamphlet, and in lines of little worth,</l>
+               <l>Hath beli'd <hi>Pluto</hi> in making of him free,</l>
+               <l>When he is void of all benignitie;</l>
+               <pb n="5" facs="tcp:160169:4"/>
+               <l> Telling the world that he is lov'd of us,</l>
+               <l>Whom we doe feare, and hate <hi>Britanicus,</hi>
+               </l>
+               <l>And that we blest him, when he finds it so,</l>
+               <l>That Satan doth 'gainst him his utmost do,</l>
+               <l>He who we oft have sore Anathemiz'd</l>
+               <l>And caused <hi>Aulicus</hi> to stigmatize</l>
+               <l>With name of Traytor, he whom we hate more</l>
+               <l>Then he that slew the Erymanthian Bore.</l>
+               <l>He each week rous'd my Agent from the sin,</l>
+               <l>And told them what a bed they wallowed in,</l>
+               <l>Stuffed with Serpents, he each weeke made known</l>
+               <l>Their ills, and hindred their confusion;</l>
+               <l>So that hell's empty by his meanes, and we</l>
+               <l>Want many markt for our society:</l>
+               <l>For which hell's curse upon him, we will near</l>
+               <l>Have him amongst us, for we well may feare,</l>
+               <l>If he should come, he'd adde unto our woe,</l>
+               <l>And make us tremble, our owne fate to know:</l>
+               <l>But for this foole, so sawcie was to write,</l>
+               <l>When we not wished him, for to indite</l>
+               <l>But meerly by <hi>Alecto's</hi> inspiration,</l>
+               <l>He hath divulged to our defamation:</l>
+               <l>Let <hi>Tarpax</hi> place him in a gloomy Cell,</l>
+               <l>And there unto a pillar binde him well.</l>
+               <l>Let <hi>Vulcanes</hi> flames still parch his head and braine,</l>
+               <l>And let chill <hi>Hyems</hi> put his loines to paine,</l>
+               <l>Casting more chilly frost upon his feet</l>
+               <l>Then e're upon Mount Caucasus do meet;</l>
+               <l>Then let three furies ever pierce his skin,</l>
+               <l>Let each wound heale, that he new paine may win,</l>
+               <l>And there still dying, let him never die,</l>
+               <l>But howle and languish to eternitie.</l>
+            </lg>
+            <lg>
+               <pb n="6" facs="tcp:160169:5"/>
+               <l>When I had heard, I wondred at the story,</l>
+               <l>And said, since thou hast been so peremptory,</l>
+               <l>Thou must reap as thou sow'dst, art thou the man</l>
+               <l>That wrot'st <hi>Britanicus</hi> Hell's blessing wan?</l>
+               <l>He straight repli'd, know thou <hi>Britanicus,</hi>
+               </l>
+               <l>That now before thee stands his <note n="*" place="margin">Anciently Jews, Gentiles and Christians held, that there were two <hi>Genii</hi> did attend on man, the one they called his <hi>Bonus Genius,</hi> the other his <hi>Malus Genius.</hi>
+                  </note>
+                  <hi>Genius.</hi>
+               </l>
+               <l>When Traitors sell their Countrey, and depart,</l>
+               <l>And are not tane to suffer their desert;</l>
+               <l>Their pictures are hang'd, for them which doth show,</l>
+               <l>They in due time themselves must suffer so;</l>
+               <l>So though he yet on the dull earth abide,</l>
+               <l>And yet 'mongst other mortalls doth reside,</l>
+               <l>
+                  <hi>Pluto</hi> to show that he doth love him well,</l>
+               <l>Is pleas'd to hang his picture now in hell:</l>
+               <l>I suffer till his soule his body leaves,</l>
+               <l>And what is due to him he now receives,</l>
+               <l>(By me) he is tormented with dire paine</l>
+               <l>As Witches stab the picture, when they faine</l>
+               <l>Would kill the substance: when he thus had said,</l>
+               <l>Straight from me vanisht the delusive shade;</l>
+               <l>For the swift houres unto the suns bright care</l>
+               <l>Had ty'd his horses, and <hi>Sol</hi> did prepare</l>
+               <l>To gallop round the world: thus back to thee</l>
+               <l>Who e're thou wert that didst calumniate me;</l>
+               <l>I have return'd thine own, hereafter feare</l>
+               <l>How thou provokest me, in print t'appeare.</l>
+            </lg>
+            <trailer>THE END.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
